@@ -101,7 +101,7 @@
   "portfolio": {
     "drawings": [
       {
-        "title": "Mandla 1",
+        "title": "Mandala 1",
         "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
         "image": "mandla5.jpeg",
         "url": "https://www.theillume.in/editorial-1"
@@ -129,6 +129,12 @@
         "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
         "image": "mandla1.jpeg",
         "url": "https://www.theillume.in/editorial-1"
+      },
+      {
+	"title": "Mandala 6",
+	"category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+	"image": "mandla6.jpeg",
+	"url": "https://www.theillume.in/editorial-1"
       }
     ],
     "projects": [
