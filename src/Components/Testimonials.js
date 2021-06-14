@@ -9,6 +9,7 @@ class Testimonials extends Component {
             <blockquote>
                <p>{testimonials.text} <br/> --{testimonials.user}</p>
             </blockquote>
+	    <hr style={{marginLeft: "10%", marginRight: "10%", opacity: "50%"}}/>
          </li>
       })
     }
