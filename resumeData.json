@@ -99,41 +99,54 @@
     ]
   },
   "portfolio": {
-    "drawings": {
+"drawings": [
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla5.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla4.png",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla3.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla2.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla1.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  }
+],
+"projects": [
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mummy_intern.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "The Ideal Celebration",
+    "category": "Experiences for celebrating festivals - the ideal way",
+    "image": "the-ideal-celebration.png",
+    "url": "https://quickreads-inkthethought.tumblr.com/post/650986165792636928/ink-the-thoughts"
+  }
+]
+    
 
-    },
-    "projects": [
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
   },
   "testimonials": {
     "testimonials": [
