@@ -7,10 +7,11 @@ class Testimonials extends Component {
       var testimonials = this.props.data.testimonials.map(function(testimonials){
         return  <li key={testimonials.user}>
             <blockquote>
-               <p>{testimonials.text} <br/> --{testimonials.user}</p>
+               <p>{testimonials.text} <br/> --{testimonials.gameName}</p>
             </blockquote>
-	    <hr style={{marginLeft: "10%", marginRight: "10%", opacity: "50%"}}/>
+            <hr style={{marginLeft: "10%", marginRight: "10%", opacity: "50%"}}/>
          </li>
+
       })
     }
 
@@ -20,7 +21,7 @@ class Testimonials extends Component {
          <div className="row">
 
             <div className="two columns header-col">
-               <h1><span>Testimonials Testimonials</span></h1>
+               <h1><span>Testimonials</span></h1>
             </div>
 
             <div className="ten columns flex-container">
@@ -36,3 +37,4 @@ class Testimonials extends Component {
 }
 
 export default Testimonials;
+
