@@ -6,13 +6,9 @@
     "image": "profilepic.jpg",
     "bio": "Currently pursuing MBA HR at NMIMS Mumbai (2023 batch).\n\n3 years of experience in Talent Acquisition and HR operations at a Digital Marketing and IT Startup.\n\nSkilled in: Talent Acquisition, End-to-end recruitment cycle, IT and Non-IT recruitment, Campus placements, Onboarding, Setting up processes, Employee Engagement activities, and Sourcing.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "soumyabhatnagar16697@gmail.com",
     "address": {
-      "street": "(Your Street)",
-      "city": "India",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "India"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -48,107 +44,128 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+        "degree": "MBA - Human Resources Management/Personnel",
+        "graduated": "2021 - 2022",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "Christ University, Bangalore",
+        "degree": "Bachelor of Business Administration - BBA(H) Human Resources Management/Personnel",
+        "graduated": "2015 - 2018",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "DeltaX",
+        "title": "Talent Acquisition Consultant",
+        "years": "Jan 2021 - June 2021",
+        "description": "Talent Acquisition (End to end recruitment) for the roles of - Business Development, Digital Marketing and Graphic Designer. Organised Campus placement for the role of international sales and digital marketing analyst.Involved in Head hunting for Business Development / International Sales and Digital Marketers."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "",
+        "title": "Talent Acquisition Manager",
+        "years": "May 2018 - December 2020",
+        "description": "Single-handedly managed the HR department for DeltaX. Primarily took care of the entire recruitment cycle, starting from sourcing the candidates to closing a profile and onboarding the candidates.\nSpecialized in tech recruitment for freshers and conducted more than 100 campus placements in the campus placement season of 2019."
+
       }
     ],
     "skills": [
       {
-        "name": "Git",
+        "name": "End to End Recruitment Cycle Management",
         "level": "60%"
       },
       {
-        "name": "Illustrator",
+        "name": "Employee Onboarding",
         "level": "55%"
       },
       {
-        "name": "ReactJs",
+        "name": "Employee Performance Management",
         "level": "50%"
       },
       {
-        "name": "CSS",
+        "name": "Training and Development",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Administrative Expert",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "Excel and SPSS(Beginner)",
         "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
       }
     ]
   },
   "portfolio": {
-    "projects": [
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
+"drawings": [
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla5.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla4.png",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla3.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla2.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mandla1.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  }
+],
+"projects": [
+  {
+    "title": "Mummy Inc. Intern",
+    "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+    "image": "mummy_intern.jpeg",
+    "url": "https://www.theillume.in/editorial-1"
+  },
+  {
+    "title": "The Ideal Celebration",
+    "category": "Experiences for celebrating festivals - the ideal way",
+    "image": "the-ideal-celebration.png",
+    "url": "https://quickreads-inkthethought.tumblr.com/post/650986165792636928/ink-the-thoughts"
+  }
+]
+    
+
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "“Hi! My name is Somu.” said a girl in white frock 20 years ago to a girl who had no idea about the lifetime package that came with her.\nThe story has a lot of chapters but little did we know that we would become\nFrom strangers to best friends forever\nFrom talking about what to play today to what to chose in life to never ending list.\nIt’s amazing to see such a pretty girl turn into a beautiful woman.\nAnd being with you in that process is such a blessing. You’ve always said to maintain stuff, efforts from both the ends matter.\nSince you’ve always been on my side\nI never realised how important you are to me,\nUntil I was about to lose you.\nSince that day there has been no day that I didn’t put my step ahead and live up to what we’re entitled too - BFF\nObviously can’t imagine to lose a gem like you. Even though I’m uncertain about some things in life but I’m certain that I love you and will genuinely continue to love you forever.\nIt’s already been 20 years and I know it would continue till the last breath\nCan’t blame myself for such a dramatic speech\nAfter all it was for you lol.",
+        "user": "Neelika"
       },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
+{
+  "text": "Happy Birthday babe!\nPerfect Summing up of ‘US’❤️ for me would be a two way time-to-time ‘You can count on me, like one two three and I’ll be there’❤️\nCheers to years of rants, same choices, sharing(to the level of having the same crush!\uD83D\uDE02), biology discussions(Duh!\uD83D\uDE05),shitty decisions, growing up together, first share of the happiest or the worst news, crying and laughing and what not…..things already done and things to come!❤️ Let’s keep this writeup all good only for now!\uD83D\uDE02\nLove you\uD83E\uDD2D❤️\n",
+  "user": "Parul"
+},
+
+{
+  "text": "It's difficult to describe Soumya with 1 word, but I can say she is a feeling similar to a sunny day amidst winter. She can cheer up anyone in the room just by existing. She has an extremely unique talent of not making sense or talking nonsense, but when ever you need a friend to hear you out she is always the one for you.",
+  "user": "Amrita"
+}
+
+      
     ]
   }
 }
+

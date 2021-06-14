@@ -7,8 +7,7 @@ class Testimonials extends Component {
       var testimonials = this.props.data.testimonials.map(function(testimonials){
         return  <li key={testimonials.user}>
             <blockquote>
-               <p>{testimonials.text}</p>
-               <cite>{testimonials.user}</cite>
+               <p>{testimonials.text} <br/> --{testimonials.user}</p>
             </blockquote>
          </li>
       })
@@ -20,7 +19,7 @@ class Testimonials extends Component {
          <div className="row">
 
             <div className="two columns header-col">
-               <h1><span>Client Testimonials</span></h1>
+               <h1><span>Testimonials Testimonials</span></h1>
             </div>
 
             <div className="ten columns flex-container">
