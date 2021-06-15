@@ -814,6 +814,14 @@ call-to-action .button {
     color: #EBEEEE;
     margin-bottom: 6px;
 }
+
+.description-text {
+    font-family: 'librebaskerville-italic', serif;
+    padding: 0;
+    font-size: 18px;
+    line-height: 36px;
+    color: #fff
+}
 /*#treasureHunt h1 span { display: none; }*/
 /*#treasureHunt h1:before {*/
 /*    font-family: 'FontAwesome';*/
@@ -1136,4 +1144,9 @@ footer .social-links li:first-child { margin-left: 0; }
     width: 60% !important;
     position: relative;
     margin-left: 21%;
+}
+
+.happy-birthday-image-class {
+    width: 75% !important;
+    margin-left: -15%;
 }

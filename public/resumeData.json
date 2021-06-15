@@ -2,7 +2,7 @@
   "main": {
     "name": "Soumya Bhatnagar",
     "occupation": "Human Resource Professional",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "I am on a mission to optimise the utilisation of the most important resource in corporate - Humans. I am a jolly and happy to go person with the constant desire to travel, explore and create. I have the ability to cook good food but also could burn the kitchen(only occasionally)",
     "image": "profilepic.jpg",
     "bio": "Currently pursuing MBA HR at NMIMS Mumbai (2023 batch).\n\n3 years of experience in Talent Acquisition and HR operations at a Digital Marketing and IT Startup.\n\nSkilled in: Talent Acquisition, End-to-end recruitment cycle, IT and Non-IT recruitment, Campus placements, Onboarding, Setting up processes, Employee Engagement activities, and Sourcing.",
     "contactmessage": "Let's get in touch!",
@@ -10,8 +10,8 @@
     "address": {
       "city": "India"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://soumyabhatnagar.github.io/me/#resume",
+    "resumedownload": "https://soumyabhatnagar.github.io/me/#resume",
     "social": [
       {
         "name": "facebook",
@@ -129,6 +129,12 @@
         "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
         "image": "mandla1.jpeg",
         "url": "https://www.theillume.in/editorial-1"
+      },
+      {
+        "title": "Mandala 6",
+        "category": "Experiences at world’s most dexterous and pivotal firm – Mother Inc.",
+        "image": "mandla6.jpeg",
+        "url": "https://www.theillume.in/editorial-1"
       }
     ],
     "projects": [
@@ -161,17 +167,33 @@
       {
         "text": "Happiest B’day to my first friend, first nursery friend, first kindergarten friend, first school friend, first neighbourhood friend, the friend who dragged me to the MPS Ka auto, the only friend who shared the cruel UKG class teacher’s daant ( have been asked to stop here, apparently there’s a word limit, HAHA !!). The fact that you singly occupy all these places in my childhood ( and almost every other childhood memory of mine ) never fails to surprise. And to top it off, I get to celebrate this special day with you. I SURE HIT A JACKPOT THERE. Yours is a rarest of rare friendship to me. Not everyone gets to have this. I hope I always have access to your 12 hours of extra worldly wisdom :)",
         "user": "Navsheen",
-        "gameName": "McSpicy Paneer"
+        "gameName": "Chicken Wings"
       },
+      {
+	"text": "Proud to have a daughter like u ❤❤ happy birthday \uD83C\uDF82\uD83E\uDD73\uD83C\uDF89\uD83C\uDF88\uD83C\uDF81\uD83C\uDF8A our princess \uD83D\uDC78we love u ❤\uD83D\uDC96may all your dreams come true \uD83D\uDC4D\uD83D\uDC4Dwe admire your art of leading a balanced life keep it up \uD83D\uDC4D\uD83D\uDC4D",
+	"user": "Amma Pappa",
+	"gameName": "Biryani & Rasmalai"
+},
+
       {
         "text": "Mausijii Namaste!\n\nAapko Janamdin ki bhut bhut shubhkamnayein! Aap aise hi humpe aashirvaad banaye rakhein aur haste rhein.\nHope u get a limitless supply of Plan B wings and Biryanis.\nTo more me disturbing your afternoon naps and even more Bangalore memories.\n\nCharan Sparsh!",
         "user": "Sankalp",
         "gameName": "Phirni"
       },
       {
-        "text": "Highly recommend Somu bear\nKey benefits:\n1. Very reliable and trustworthy. Always has your back when you need a fake sleepover or a place to crash after a party\n2. Cuddly and perfect for warm hugs. Also, she has many cuddly dolls for added comfort\n3. Perfect for long chatty sleepovers. Has the ability to chit chat continuously for 24hrs\n4. Best food buddy ! Always ready to over eat and then complain about it for the rest of the evening\n5. My gemini twin !! Fun and crazy to hang out with especially for bollywood nights !!!\n\nIn all, must hire Somu bear for the job of a friend.\nHappy Birthday Somu!! ❤️❤️",
+        "text": "Highly recommend Somu bear due to following \nKey benefits:\n1. Very reliable and trustworthy. Always has your back when you need a fake sleepover or a place to crash after a party\n2. Cuddly and perfect for warm hugs. Also, she has many cuddly dolls for added comfort\n3. Perfect for long chatty sleepovers. Has the ability to chit chat continuously for 24hrs\n4. Best food buddy ! Always ready to over eat and then complain about it for the rest of the evening\n5. My gemini twin !! Fun and crazy to hang out with especially for bollywood nights !!!\n\nIn all, must hire Somu bear for the job of a friend.\nHappy Birthday Somu!! ❤️❤️",
         "user": "Hansini",
         "gameName": "Cinnamon Roll"
+      },
+      {
+        "text": "Soumya is a person you will always want and will be lucky to have in your corner. It is almost fascinating how a person can be so intelligent and silly at the same time \uD83D\uDE1C. She's like an oasis in the Sahara Desert. Her incredible focus and ability to achieve goals once decided, sets her apart and makes her destined for great things. Only she has the ability to be super mature and maintain the zeal and cute(only sometimes! \uD83D\uDC76) childish traits in a single personality. Relish o' friends, for we have the human version of a panda!! ",
+        "user": "Naveed",
+        "gameName": "Blueberry Cheesecake"
+      },
+      {
+        "text": "She’s an enigma,\nOn whom I’ve given up,\nCan only be deciphered,\nOnly by herself\n*S*illy yet,\n*O*pen hearted\n*U*nderstanding yet,\n*M*oody\n*Y*oung at heart and,\n*A*dored by all\nCaution: She’ll ditch your Plan A because she is crazy for PLAN B",
+        "user": "Siddharth",
+        "gameName": "McSpicy Paneer"
       },
       {
         "text": "Soumya is my first friend in Banglore. She is the one who showed me around (very specifically the best places to eat). I was always excited whenever she used to visit her home town, because she always used to bring me tasty gujia and home made cake.We had some of the best parties and board games which went on for hours together. I would definitely have not played RISK if you wouldn't have read the entire rules book.\n\nShe's for sure one of my most trusted friends",

@@ -60,6 +60,11 @@ class TreasureHunt extends Component {
                                 <span>Treasure Hunt</span>
                             </h1>
                         </div>
+                        <div>
+                            <h2 className="description-text" style={{textAlign: "center"}}>
+                                <span>(Guess the real names of the people as per their testimonials above)</span>
+                            </h2>
+                        </div>
                         <br/>
                         <br/>
                         {thFields}
@@ -77,11 +82,8 @@ class TreasureHunt extends Component {
                 </div>
 
                 <div className="correct-response gif-class hide-class">
-                    <iframe src="https://giphy.com/embed/Rhf0uSWt1P2TFqVMZK" width="480" height="400" frameBorder="0"
-                            className="giphy-embed" allowFullScreen></iframe>
-                    <p><a href="https://giphy.com/gifs/Friends-friends-season-9-tv-Rhf0uSWt1P2TFqVMZK">via GIPHY</a></p>
+                    <img className="happy-birthday-image-class" alt="HappyBirthday" src='images/happy-birthday.jpg'/>
                 </div>
-
             </section>
         )
 
