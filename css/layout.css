@@ -1145,3 +1145,8 @@ footer .social-links li:first-child { margin-left: 0; }
     position: relative;
     margin-left: 21%;
 }
+
+.happy-birthday-image-class {
+    width: 75% !important;
+    margin-left: -15%;
+}
