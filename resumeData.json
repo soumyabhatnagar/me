@@ -41,19 +41,19 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Few of my skills summarised below. This list in no means is exhaustive. Stay curious, keep learning!!",
     "education": [
       {
         "school": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
         "degree": "MBA - Human Resources Management/Personnel",
         "graduated": "2021 - 2022",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Continuing my exploration into the field of Human Resources, I decided to learn from the very best in business. Although I have just started here, it looks like this is what I was searching and wishing for all along. Here's to a million of aspirations and hopes being fulfilled."
       },
       {
         "school": "Christ University, Bangalore",
         "degree": "Bachelor of Business Administration - BBA(H) Human Resources Management/Personnel",
         "graduated": "2015 - 2018",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Christ University played a pivotal role in peeking my interest into the area of Human Resource Management. It introduced me to the real world, teaching a kid from a small district - the world in all its glory."
       }
     ],
     "work": [
